@@ -1,0 +1,21 @@
+Information from:
+https://archive.ics.uci.edu/ml/datasets/Vertebral+Column
+
+Data set containing values for six biomechanical features used to classify
+orthopaedic patients into 2 classes (normal or abnormal).
+
+Data Set Information:
+
+Biomedical data set built by Dr. Henrique da Mota during a medical residence
+period in the Group of Applied Research in Orthopaedics (GARO) of the Centre
+Medico-Chirurgical de Redaptation des Massues, Lyon, France.
+
+
+Attribute Information:
+
+Each patient is represented in the data set by six biomechanical attributes
+derived from the shape and orientation of the pelvis and lumbar spine (in this
+order): pelvic incidence, pelvic tilt, lumbar lordosis angle, sacral slope,
+pelvic radius and grade of spondylolisthesis. The following convention is used
+for the class labels: Normal (NO) and Abnormal (AB).
+
