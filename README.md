@@ -8,7 +8,7 @@ A private directory is available that contains the productionised code used to c
 
 ## Current Portfolio:
 
-**CNN - Music Genre Classification**: Building an CNN model capable of classifying the genre of a song based on a 30 sec extract. First transforms the audio files into melospectrograms (images of sound over time). Builds a base LeNet model (50% accuracy). Optimizes the model through iterative parameter tuning and architecture changes to a final model of 65% accuracy (95% for 2 of the 5 genres).
+**CNN - Music Genre Classification**: Building a CNN model capable of classifying the genre of a song based on a 30 sec extract. First transforms the audio files into melospectrograms (images of sound over time). Builds a base LeNet model (50% accuracy). Optimizes the model through iterative parameter tuning and architecture changes to a final model of 65% accuracy (95% for 2 of the 5 genres).
 
 **RNN - Marvel Character Generator**: An RNN model that takes the text from the Marvel Wiki entries and uses it to generate a backstory for a character. Results vary and still requires better tuning but an interesting introduction!
 
