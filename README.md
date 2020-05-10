@@ -12,6 +12,8 @@ A private directory is available that contains the productionised code used to c
 
 **RNN - Marvel Character Generator**: An RNN model that takes the text from the Marvel Wiki entries and uses it to generate a backstory for a character. Results vary and still requires better tuning but an interesting introduction!
 
+**MCMC - Breaking the Enigma Code**: Using MCMC algorithm to break the enigma code. Used for creating the Medium article: 
+
 **Data Creation - Jungle Stats per Champion**: Builds a full dataset of each League of Legends Champions average Jungle stats per ranked tier. First creates a dataset of match IDs for each tier, loops through this to find match JSONs then parses JSON to pull & aggregate key information. All performed with parallel processing. 
 
 **Principle Component Analysis**: Exploring techniques to reduce the dimensionality of the 2012 U.S. Army Anthropometric Survey (ANSUR-2). Using predominantly PCA, but a small comparission to the more complex techniques of UMAP and T-SNE is also performed. 
