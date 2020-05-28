@@ -20,3 +20,5 @@ A private directory is available that contains the productionised code used to c
 
 **Classification**: Using medical data to classify patients. Transformed using several dimensionality reduction techniques (UMAP/PCA/TSNE) then classified through Supervised Learning (Gaussian Naive Bayes/K-Nearest Neighbors/SVC/Decision Trees), scored on T1 errors through cross-validation to pick optimal model. Further Unsupervised Learning (K-Means / Gaussian Mixture) used to test for further improvements in classification (whether additional categories are beneficial). 
 
+**Data Analysis and API**: Using the Riot API to gather data about LoL player, attempting to prove whether "tilted" players are more likely to lose their next game. Used for creating the Medium article:
+
