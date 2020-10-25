@@ -24,3 +24,4 @@ A private directory is available that contains the productionised code used to c
 
 **Data Analysis and API**: Using the Riot API to gather data about LoL player, attempting to prove whether "tilted" players are more likely to lose their next game. Used for creating the Medium article:
 
+**Champion Classification using UMAP and KMeans**: Using Champion statistics alongside UMAP dimensionality reduction to classify LoL champions into four per lane. Used for article and future work (reference to follow)
